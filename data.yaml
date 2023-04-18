@@ -1,0 +1,7 @@
+path: ../datasets  # dataset root dir
+train: images/train # train images (relative to 'path') 128 images
+val: images/val  # val images (relative to 'path') 128 images
+
+names:
+  0: enemy
+  1: enemyHead
